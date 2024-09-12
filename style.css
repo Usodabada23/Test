@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+   font-family: 'Trebuchet MS', sans-serif;
+}
+button{
+    display: block;
+    border-radius: 4px;
+    background-color: #40c5fe;
+    border: none;
+    color: #fffefe;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 480px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: auto;
+}
